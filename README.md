@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @max010522
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning React js
+- 📫 How to reach me: makeit1020@gmail.com
